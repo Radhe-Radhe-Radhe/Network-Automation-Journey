@@ -1,0 +1,17 @@
+{
+    "http_method": "GET",
+    "results": {
+        "model_name": "FortiGate",
+        "model_number": "60F",
+        "model": "FGT60F",
+        "hostname": "Audix-FG-60F",
+        "log_disk_status": "not_available"
+    },
+    "vdom": "root",
+    "path": "system",
+    "name": "status",
+    "status": "success",
+    "serial": "FGT60FTK2309BZYR",
+    "version": "v7.4.9",
+    "build": 2829
+}

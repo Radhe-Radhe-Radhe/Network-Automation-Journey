@@ -1,0 +1,342 @@
+{
+    "http_method": "GET",
+    "results": [
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.1.252/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "10.0.0.12/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "Marvad",
+                    "p2serial": 1
+                }
+            ],
+            "name": "Audix_PR_MLD",
+            "comments": "VPN: Marvad (Created by VPN wizard)",
+            "wizard-type": "custom",
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "103.95.12.2",
+            "tun_id": "103.95.12.2",
+            "tun_id6": "::103.95.12.2"
+        },
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.1.252/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "10.21.0.0/255.255.240.0",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "Audix_Nanded",
+                    "p2serial": 1
+                }
+            ],
+            "name": "Audix_Nanded",
+            "comments": "@5Nxf$#&0P7*686t!M0B",
+            "wizard-type": "custom",
+            "connection_count": 0,
+            "creation_time": 22,
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "15.207.139.133",
+            "tun_id": "15.207.139.133",
+            "tun_id6": "::15.207.139.133"
+        },
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.200.1/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "10.10.70.224/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "Audix_DCB_",
+                    "p2serial": 1
+                }
+            ],
+            "name": "Audix_DCB_",
+            "comments": "",
+            "wizard-type": "custom",
+            "connection_count": 0,
+            "creation_time": 20,
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "125.21.110.106",
+            "tun_id": "125.21.110.106",
+            "tun_id6": "::125.21.110.106"
+        },
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.1.252/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "172.16.40.35/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "Audix_PZ_PR",
+                    "p2serial": 1
+                }
+            ],
+            "name": "Audix_PZ_PR",
+            "comments": "VPN: Audix_PZ_PR (Created by VPN wizard)",
+            "wizard-type": "custom",
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "43.239.111.78",
+            "tun_id": "43.239.111.78",
+            "tun_id6": "::43.239.111.78"
+        },
+        {
+            "proxyid": [],
+            "name": "Test",
+            "comments": "VPN: Test (Created by VPN wizard)",
+            "wizard-type": "custom",
+            "type": "",
+            "incoming_bytes": 1078866,
+            "outgoing_bytes": 6650151,
+            "rgwy": "0.0.0.0",
+            "tun_id": "10.0.0.1",
+            "tun_id6": "::10.0.0.1"
+        },
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.1.252/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "10.10.9.0/255.255.255.0",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "Latur_Bank",
+                    "p2serial": 1
+                }
+            ],
+            "name": "Latur_Bank",
+            "comments": "VPN: Latur_Bank (Created by VPN wizard)",
+            "wizard-type": "custom",
+            "connection_count": 0,
+            "creation_time": 21,
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "103.132.28.202",
+            "tun_id": "103.132.28.202",
+            "tun_id6": "::103.132.28.202"
+        },
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.100.252/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "192.168.101.12/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "ff",
+                    "p2serial": 1
+                }
+            ],
+            "name": "AUDIX _CPTLInd",
+            "comments": "VPN: AUDIX CPTL (Created by VPN wizard)",
+            "wizard-type": "custom",
+            "connection_count": 0,
+            "creation_time": 20,
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "202.149.199.242",
+            "tun_id": "202.149.199.242",
+            "tun_id6": "::202.149.199.242"
+        },
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.1.252/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "10.11.21.22/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "DASMBNK",
+                    "p2serial": 1
+                }
+            ],
+            "name": "DASMBNK",
+            "comments": "VPN: DASMBNK (Created by VPN wizard)",
+            "wizard-type": "custom",
+            "connection_count": 0,
+            "creation_time": 22,
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "183.82.3.73",
+            "tun_id": "183.82.3.73",
+            "tun_id6": "::183.82.3.73"
+        },
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.1.252/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "192.168.21.226/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "Yotta-SOC-APE",
+                    "p2serial": 1
+                }
+            ],
+            "name": "Yotta-SOC-APE",
+            "comments": "",
+            "wizard-type": "custom",
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "43.242.36.92",
+            "tun_id": "43.242.36.92",
+            "tun_id6": "::43.242.36.92"
+        },
+        {
+            "proxyid": [
+                {
+                    "proxy_src": [
+                        {
+                            "subnet": "192.168.1.252/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "proxy_dst": [
+                        {
+                            "subnet": "10.11.21.22/255.255.255.255",
+                            "port": 0,
+                            "protocol": 0,
+                            "protocol_name": ""
+                        }
+                    ],
+                    "status": "down",
+                    "p2name": "DSLM BNK2",
+                    "p2serial": 1
+                }
+            ],
+            "name": "DSLM BNK2",
+            "comments": "VPN: DSLM BNK2 (Created by VPN wizard)  @5Nxf$#&0P7*686t!M0B\f",
+            "wizard-type": "custom",
+            "connection_count": 0,
+            "creation_time": 22,
+            "type": "automatic",
+            "incoming_bytes": 0,
+            "outgoing_bytes": 0,
+            "rgwy": "14.98.211.190",
+            "tun_id": "14.98.211.190",
+            "tun_id6": "::14.98.211.190"
+        }
+    ],
+    "vdom": "root",
+    "path": "vpn",
+    "name": "ipsec",
+    "status": "success",
+    "serial": "FGT60FTK2309BZYR",
+    "version": "v7.4.9",
+    "build": 2829
+}
